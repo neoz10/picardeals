@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mon site</title>
+<meta charset="UTF-8">
+<style>
+body{
+font-family: Arial;
+text-align:center;
+background:#111;
+color:white;
+padding-top:100px;
+}
+h1{
+font-size:50px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Bienvenue sur mon site</h1>
+<p>Mon premier site gratuitement</p>
+
+</body>
+</html>
